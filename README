@@ -1,0 +1,3 @@
+I had some freetime, so I decided to write this little game.
+Currently everything is just a square and there's no way to change any options inside the gui itself.
+Use the commandline to set some properties. adding --help will explain those.
